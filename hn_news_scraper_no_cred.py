@@ -44,9 +44,9 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com' # "jouw smtp server"
 PORT = 587 # jouw port number
-FROM =  'automatedpythontutorial@gmail.com' # "Jouw email id"
-TO = 'automatedpythontutorial@gmail.com' # "Nogmaals jouw email id"  # (Kan ook een lijst zijn)
-PASS = 'Python123!' # "Het wachtwoord van jouw email id"
+FROM =  '' # "Jouw email id"
+TO = '' # "Nogmaals jouw email id"  # (Kan ook een lijst zijn)
+PASS = '*****' # "Het wachtwoord van jouw email id"
 
 # fp = open(file_name, 'rb')
 # Een leeg bericht creeëren
